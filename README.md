@@ -20,3 +20,4 @@ you'll be creating yourself during the tutorial.
 Updated README for Jenkins SCM polling test
 
 Testing webhook integration
+Test GitHub webhook trigger
